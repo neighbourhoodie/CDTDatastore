@@ -1,3 +1,8 @@
+# DEPRECATED
+**This library is now deprecated and will be end-of-life on Dec 31 2021.**
+The library remains supported until the end-of-life date,
+but will receive only _critical_ maintenance updates.
+
 # CDTDatastore
 
 [![Version](http://cocoapod-badges.herokuapp.com/v/CDTDatastore/badge.png)](http://cocoadocs.org/docsets/CDTDatastore)
